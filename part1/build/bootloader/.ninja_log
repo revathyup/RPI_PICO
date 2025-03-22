@@ -1,0 +1,7 @@
+# ninja log v6
+7	198	7607142080770461	CMakeFiles/boot_stage2.dir/C_/Users/upill/zephyrproject/modules/hal/rpi_pico/src/rp2040/boot_stage2/boot2_w25q080.S.obj	c6f6a819a1e1e7c8
+200	1334	7607142092725565	boot_stage2	aa215bac38a5f29e
+200	1334	7607142092725565	boot_stage2.bin	aa215bac38a5f29e
+200	1334	7607142092725565	boot_stage2.S	aa215bac38a5f29e
+200	1334	7607142092725565	C:/Users/upill/zephyrproject/lab2/part1/build/bootloader/boot_stage2.bin	aa215bac38a5f29e
+200	1334	7607142092725565	C:/Users/upill/zephyrproject/lab2/part1/build/bootloader/boot_stage2.S	aa215bac38a5f29e
